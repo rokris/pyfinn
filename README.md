@@ -1,4 +1,5 @@
 🏠 Fetch real estate listing from finn.no and make available as JSON response.
+https://medium.com/@nikolaik/samle-boligannonser-fra-finn-no-i-et-regneark-med-google-sheets-d0e4fd2ae19f
 
 Requests to finn.no uses a randomized user agent. The response data is cached (with redis).
 
