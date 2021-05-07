@@ -6,7 +6,7 @@ Requests to finn.no uses a randomized user agent. The response data is cached (w
 ## Try it out
 Hit the button below to create your own. You need a free Heroku account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikolaik/pyfinn/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rokris/pyfinn/tree/main)
 
 ## Example usage
 - [How to use the data in a Google Spreadsheet](https://medium.com/@nikolaik/samle-boligannonser-fra-finn-no-i-et-regneark-med-google-sheets-d0e4fd2ae19f) (norwegian)
